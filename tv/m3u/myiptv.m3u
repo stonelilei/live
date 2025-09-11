@@ -96,6 +96,7 @@ CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 台视频道,rtmp://f13h.mine.nu/sat/tv071
 中视频道,rtmp://f13h.mine.nu/sat/tv091
 华视频道,rtmp://f13h.mine.nu/sat/tv111
@@ -107,89 +108,6 @@ CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-民视台湾台,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
-中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-中视新闻台,http://mywlkj.ddns.net:754/tv/tw2.php?id=14
-中视新闻台,http://mywlkj.ddns.net:754/tv/tw2.php?id=14 
-台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-台视新闻台,https://live.wcetv.com/hls/master-ttvnews.m3u8
-台视新闻台,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
-好莱坞电影,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
-纬来电影,mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
-龙祥电影,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
-HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
-美亚电影(粤语),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae
-东森电影,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
-东森洋片,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
-美亚电影,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
-龙华电影,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
-靖天映画,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
-龙华戏剧,mitv://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
-靖天电影,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
-AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
-AMC电影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
-HBO Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
-HBO Family,mitv://generationnexxxt.com:19806/924dad4bd6604751ba4c4ae69781784b
-CatchPlay电影台,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
-CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
-CinemaWorld,mitv://generationnexxxt.com:19806/c6efdcd038204b4781cafc2273b4adb3
-DMAX,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
-壹电视电影台,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
-采昌影剧台,mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
-BOO,mitv://generationnexxxt.com:19806/72791d5b2d0847bdbd28aaee41af5537
-CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
-CINEMAX,mitv://generationnexxxt.com:19806/adf42efd52864d6e9454132f0d849fb7
-纬来育乐台,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
-纬来育乐台,mitv://generationnexxxt.com:19806/09f5cbcd57934038bc76de430a767046
-HBO强档巨献,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
-HBO强档巨献,mitv://generationnexxxt.com:19806/85cdd046958e48a794ff6f2d26b8ceba
-HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
-HBO原创巨献,mitv://generationnexxxt.com:19806/6cf195d6fb5a4f9bb6fd98cf97af421b
-WARNER TV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
-WARNER TV,mitv://generationnexxxt.com:19806/f613ad7c2e684a3599566ad2405d9c6e
-HITS Movies,mitv://generationnexxxt.com:19806/72b44f288c8c4c5baa031ec11d9e0e35
-影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
-影迷数位电影台,mitv://generationnexxxt.com:19806/381a31aedcd2452c9be9582fc5a8ac51
-海外频道,#genre#
-半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NBC_News_Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-Sky_News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-AXS_TV_Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Dubai_One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-Al_Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Bloomberg_Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg_Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-CBN_News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-GB_News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-RT_News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-RT_Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-TRT_World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-ION_Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Disney_International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fashion_TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Fight_Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-&Flix_HD,http://89.187.177.137:8081/&FLIX/index.m3u8
-Wild_Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild_Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity_4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Trace_Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The_Lego_Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp_Live_Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+海外频道,#genre#
+
